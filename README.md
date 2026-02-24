@@ -6,10 +6,6 @@ SUBMITTED TO THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY (DICT)
 
 REGARDING THE 3RD DRAFT OF THE IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO. 12254 (E-GOVERNANCE ACT)
 
-*March 10, 2026*
-
-*This position paper includes comprehensive references to international standards, country case studies, and technical specifications. See Section IX: References and Sources for complete citations.*
-
 **Submitted by:** Community of AI, Agentic AI, Automation, and Integration Developers in the Philippines
 
 ---
