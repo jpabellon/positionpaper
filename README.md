@@ -349,24 +349,24 @@ We formally propose the following amendments to the 3rd Draft of the IRR:
 12. **Republic of Korea**. "Digital Platform Government Implementation Strategy." Legal basis: Act on Promotion of the Provision and Use of Public Data (2013); Act on Promotion of Data-based Administration (2020).
 13. **European Union**. "Directive (EU) 2019/1024 on open data and the re-use of public sector information." European Parliament and Council, June 20, 2019. Also: Data Governance Act (2022).
 14. **Republic of Kazakhstan**. "Digital Kazakhstan Programme (2018-2022)." Legal basis: Law on Access to Information (2015); Law on Informatisation (2015).
-15. **Astana Civil Service Hub & UNDP** (2024). "Open Government Data Policies in Selected Countries: Comparative Analysis." Report covering Canada, Estonia, Korea, EU, and Central Asian/Caucasus countries. Retrieved from: https://www.genspark.ai/api/files/s/H0RWeK5Q
+15. **Astana Civil Service Hub & UNDP** (2024). "Open Government Data Policies in Selected Countries: Comparative Analysis." Report covering Canada, Estonia, Korea, EU, and Central Asian/Caucasus countries. Retrieved from: https://www.undp.org/sites/g/files/zskgke326/files/2023-03/20230317_Open%20Government%20Data_fin.fin_.pdf
 
 ### D. Country Case Studies - API-First and Digital Government
 
 16. **United Arab Emirates**. "API First Policy." Telecommunications and Digital Government Regulatory Authority (TDRA), enacted 2022-2024. https://u.ae/en/about-the-uae/digital-uae/regulatory-framework/api-first
-17. **United Arab Emirates**. "API First Guidelines - Version 1.0." TDRA, 2019. Retrieved from: https://www.genspark.ai/api/files/s/2JqYF9P6
+17. **United Arab Emirates**. "API First Guidelines - Version 1.0." TDRA, 2019. Retrieved from: https://u.ae/en/about-the-uae/digital-uae/regulatory-framework/api-first
 18. **UAE API Marketplace**. Government platform for API discovery and integration. https://api.government.ae/
 19. **Digital Ajman & IBM**. "Case Study: Digital Ajman Framework - API Integration for Government Services." IBM Cloud Pak for Integration implementation. Retrieved from: https://www.ibm.com/case-studies/digital-ajman
-20. **Government of Singapore**. "Digital Government Blueprint (DGB)." Smart Nation and Digital Government Office (SNDGO), 2023. Includes Government Data Architecture (GDA) and National AI Strategy (NAIS) 2.0. Retrieved from: https://www.genspark.ai/api/files/s/LuNhkE20
+20. **Government of Singapore**. "Digital Government Blueprint (DGB)." Smart Nation and Digital Government Office (SNDGO), 2023. Includes Government Data Architecture (GDA) and National AI Strategy (NAIS) 2.0. Retrieved from: https://isomer-user-content.by.gov.sg/85/f4e1b24e-42b4-4f8d-98a4-9dbc64817ff6/dgb-public-document_30dec20.pdf
 21. **Singapore - Singpass**. National Digital Identity platform with 97% penetration rate, 4.2 million app users, 500 million annual transactions. https://www.singpass.gov.sg/
 22. **Estonia - X-Road**. Secure data exchange layer connecting 99% of public services since 2001. X-Road Foundation. https://x-road.global/
-23. **Tepandi, J., et al.** (2024). "A Historical Analysis on Interoperability in Estonian Data Exchange Architecture." Retrieved from: https://www.genspark.ai/api/files/s/FIuXQPlP
+23. **Tepandi, J., et al.** (2024). "A Historical Analysis on Interoperability in Estonian Data Exchange Architecture." Retrieved from: https://www.researchgate.net/publication/357787085_A_Historical_Analysis_on_Interoperability_in_Estonian_Data_Exchange_Architecture_Perspectives_from_the_Past_and_for_the_Future 
 24. **Government of India**. "India Stack." Digital Public Infrastructure including Aadhaar (Identity), UPI (Payments), and DigiLocker (Data). https://indiastack.org/
 25. **UK Government Digital Service (GDS)**. "Government as a Platform." https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020
 
 ### E. Academic and Research Sources
 
-26. **Matheus, R., Ribeiro, M.M., & Vaz, J.C.** (2023). "Open Government APIs (OGAPIs) in Smart City Service Delivery: A Comparative Analysis of Singapore, South Korea, UK, Brazil, and Indonesia." Journal of Digital Government Research. Retrieved from: https://www.genspark.ai/api/files/s/FIuXQPlP
+26. **Matheus, R., Ribeiro, M.M., & Vaz, J.C.** (2023). "Open Government APIs (OGAPIs) in Smart City Service Delivery: A Comparative Analysis of Singapore, South Korea, UK, Brazil, and Indonesia." Journal of Digital Government Research. Retrieved from: https://learning-gate.com/index.php/2576-8484/article/view/8645
 27. **European Commission** (2020). "The Economic Impact of Open Data: Opportunities for value creation in Europe." Study estimating EU Open Data market at €52 billion (2019), projected €194 billion by 2030.
 28. **Open Data Institute (ODI)**. "The Value of Open Data." Multiple case studies on economic impact. https://theodi.org/
 
